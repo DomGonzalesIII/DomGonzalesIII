@@ -1,5 +1,8 @@
 ## Hi there 👋
+My name is Dom and I'm an aspiring Data Engineer. I've worked in IT for 6 years and got that itch again to change course and pursue a new venture.
 
+## Current Efforts ☕
+I'm taking the IBM Data Engineering Certificate course on Coursera. Along the way, I'm building out my portfolio with projects and working to expand my knowledge. 
 <!--
 **DomGonzalesIII/DomGOnzalesIII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
